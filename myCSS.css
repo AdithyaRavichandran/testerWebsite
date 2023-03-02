@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-size: 1em;
+    color: #009;
+    margin-bottom: .3em;
+    text-decoration: underline;
+  }
+
+h2 {
+    text-align: center;
+    color: greenyellow;
+}
+
+h3 {
+    text-align: center;
+    font-size: 4;
+    color: red;
+}
+
+header {
+    text-align: center;
+    font-size: x-large;
+}
+
+nav {
+    text-align: right;
+    font-size: medium;
+    color: blueviolet;
+}
+
+article {
+    text-align: center;
+    font-size: xx-large;
+    color:coral;
+}
+
+section {
+    text-align: center;
+    font-size: large;
+    color:darkkhaki;
+    background-color: brown;
+}
+
+footer {
+    text-align: center;
+    color: grey;
+    background-color:blue;
+}
